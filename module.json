@@ -17,7 +17,7 @@
   },
   "targetDependencies": {
     "arm": {
-      "lwm2m-client-mbed": "~0.0.3"
+      "lwm2m-client-mbed": "~0.0.3#coap-tcp"
     },
     "linux": {
       "lwm2m-client-linux": "~0.0.1"
